@@ -101,7 +101,7 @@ Responde de forma concisa y clara en español."""
 # =======================
 
 st.set_page_config(page_title="Chat PDF con MongoDB + Gemini", page_icon="💬")
-st.title("💬 Chatbot de tu PDF (MongoDB + Gemini)")
+st.title("💬 Chatbot sobre el Covid-19")
 
 if "historial" not in st.session_state:
     st.session_state.historial = []
