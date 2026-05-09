@@ -1,2 +1,5 @@
 pymongo
 google-genai
+streamlit
+numpy
+supabase
